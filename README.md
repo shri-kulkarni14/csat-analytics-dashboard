@@ -39,10 +39,10 @@ validation
 - **Data Quality & Sentiment Deep-Dive** — the missing-score issue, broken down and explained
 
 ## Recommendations
-​1. Fix the Data Capture Gap: Implement mandatory CSAT logging mechanisms immediately, prioritizing the Call-Center channel to stop missing surveys from automatically defaulting to zero and skewing aggregate metrics.
-​2. Conduct Root-Cause Friction Analysis: Investigate operational pain points driving the 51.87% negative customer sentiment, shifting the focus from speed metrics to the actual quality of the resolutions provided.
-​3. Overhaul Email Channel Support: Revamp training, templates, and resolution workflows for the email team, as it currently ranks as the lowest-performing customer communication channel.
-​4. Target Service Outage Workflows: Build dedicated, high-priority routing and specialized crisis scripts for Service Outage complaints to elevate satisfaction in this specific friction area.
+​1. Fix the Data Capture Gap: Implement mandatory CSAT logging mechanisms immediately, prioritizing the Call-Center channel to stop missing surveys from automatically defaulting to zero and skewing aggregate metrics
+​2. Conduct Root-Cause Friction Analysis: Investigate operational pain points driving the 51.87% negative customer sentiment, shifting the focus from speed metrics to the actual quality of the resolutions provided
+​3. Overhaul Email Channel Support: Revamp training, templates, and resolution workflows for the email team, as it currently ranks as the lowest-performing customer communication channel
+​4. Target Service Outage Workflows: Build dedicated, high-priority routing and specialized crisis scripts for Service Outage complaints to elevate satisfaction in this specific friction area
 
 ## How to Reproduce
 1. Clean raw data using steps documented in `/excel/`
